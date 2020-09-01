@@ -1,4 +1,3 @@
-### Hello </Coder> 👋
 #### Around the Web:
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/developer001) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allenjiji2604@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-jiji/) [![adamalston.com](https://img.shields.io/badge/-INSTAGRAM-cd2ecb?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allen.jiji)
 
