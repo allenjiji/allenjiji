@@ -12,9 +12,9 @@
 #### I USE :
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717) ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD) ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=0769AD) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=00000) ![Django REST](https://img.shields.io/badge/-DjangoREST-222222?style=flat) ![Flutter](https://img.shields.io/badge/-FireBase-222222?style=flat&logo=firebase) ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)
-
+<!--
 #### VISIT: [allenjiji.ml](http://allenjiji.ml) 
-
+-->
 <!--
 **allenjiji/allenjiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
