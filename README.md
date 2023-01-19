@@ -1,33 +1,34 @@
-#### AROUND THE WEB:
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/allenjiji) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allenjiji2604@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenjiji/) [![adamalston.com](https://img.shields.io/badge/-INSTAGRAM-cd2ecb?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allen.jiji)
+#### Connect:
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenjiji/) 
+
+#### Contact:
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allenjiji2604@gmail.com)
+
 <!-- 
 ![deuterium's github](https://github-readme-stats.vercel.app/api?username=allenjiji&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenjiji&layout=compact) -->
 
 
-#### I WRITE IN:
+#### Write in:
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ![Python](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-#### I USE :
+#### Work with:
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717) ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD) ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=0769AD) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=00000) ![Django REST](https://img.shields.io/badge/-DjangoREST-222222?style=flat) ![Flutter](https://img.shields.io/badge/-FireBase-222222?style=flat&logo=firebase) ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)
-<!--
-#### VISIT: [allenjiji.ml](http://allenjiji.ml) 
--->
-<!--
-**allenjiji/allenjiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
