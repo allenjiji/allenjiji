@@ -1,8 +1,8 @@
 #### AROUND THE WEB:
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/allenjiji) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allenjiji2604@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenjiji/) [![adamalston.com](https://img.shields.io/badge/-INSTAGRAM-cd2ecb?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allen.jiji)
-
+<!-- 
 ![deuterium's github](https://github-readme-stats.vercel.app/api?username=allenjiji&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenjiji&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenjiji&layout=compact) -->
 
 
 #### I WRITE IN:
